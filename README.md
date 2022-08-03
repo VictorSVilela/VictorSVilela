@@ -15,35 +15,36 @@
 >I'm currently working on [Pacto Soluções](https://sistemapacto.com.br/)
 
 #
- 
+
 ### 🛠 Languages and Tools:
 >- Backend: </br>
->![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
->![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
->![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
+><img src="https://badgen.net/badge/icon/Java?icon=https://www.svgrepo.com/show/184143/java.svg?size=77&color=0d8ac7&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/Maven?icon=https://www.svgrepo.com/show/373829/maven.svg?size=77&color=C71A36&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/Hibernate?icon=https://www.svgrepo.com/show/353874/hibernate.svg?size=77&color=59666c&labelColor=F5F5F5&label&scale=1.3"></img>
 >
 >- Frontend: </br>
->![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
->![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
->![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
->![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
->![AngularJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg)
+><img src="https://badgen.net/badge/icon/HTML5?icon=https://www.svgrepo.com/show/373669/html.svg?size=77&color=E34F26&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/CSS3?icon=https://www.svgrepo.com/show/373535/css.svg?size=77&color=1572b7&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/JavaScript?icon=https://www.svgrepo.com/show/355081/js.svg?size=77&color=f8dc3e&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/Bootstrap?icon=https://www.svgrepo.com/show/353498/bootstrap.svg?size=77&color=563d7c&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/AngularJS?icon=https://icongr.am/devicon/angularjs-original.svg?size=77&color=E23237&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/Angular?icon=https://www.svgrepo.com/show/373427/angular.svg?size=77&color=DD0031&labelColor=F5F5F5&label&scale=1.3"></img>
 >
 >- Database: </br>
->![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
->![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+><img src="https://badgen.net/badge/icon/PostgreSQL?icon=https://www.svgrepo.com/show/354200/postgresql.svg?size=77&color=2F6792&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/MySQL?icon=https://www.svgrepo.com/show/355133/mysql.svg?size=77&color=00546c&labelColor=F5F5F5&label&scale=1.3"></img>
+>
 >- Others: </br>
->![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
->![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
->![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white)
->![Sublime](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=white)
->![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+><img src="https://badgen.net/badge/icon/Git?icon=https://www.svgrepo.com/show/353782/git-icon.svg?size=77&color=f34f29&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/IntelliJ%20IDEA?icon=https://www.svgrepo.com/show/353906/intellij-idea.svg?size=77&color=000000&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/Sublime%20Text?icon=https://www.svgrepo.com/show/354408/sublimetext-icon.svg?size=77&color=fd971f&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/Postman?icon=https://www.svgrepo.com/show/354202/postman-icon.svg?size=77&color=ff6c37&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/DBeaver?icon=https://svgshare.com/i/joc.svg?size=77&color=897363&labelColor=F5F5F5&label&scale=1.3"></img>
 
 #
 
 ### 🌎 Connect with me
 
->[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/victor-soares-vilela-4131a1198/)
-<a href="https://www.instagram.com/victor.s.vilela/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=100001216628040"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  </a>
+><a href="https://www.linkedin.com/in/victorsoaresvilela/"><img src="https://badgen.net/badge/icon/LinkedIn?icon=https://www.svgrepo.com/show/157006/linkedin.svg?size=77&color=00669c&labelColor=F5F5F5&label&scale=1.3"></img></a>
+<a href="https://www.instagram.com/victor.s.vilela/"><img src="https://badgen.net/badge/icon/Instagram?icon=https://www.svgrepo.com/show/13639/instagram.svg?size=77&color=e0447a&labelColor=F5F5F5&label&scale=1.3"></img></a>
+<a href="https://www.facebook.com/profile.php?id=100001216628040"><img src="https://badgen.net/badge/icon/Facebook?icon=https://www.svgrepo.com/show/343553/facebook-network-communication-internet-interaction.svg?size=77&color=1977f3&labelColor=F5F5F5&label&scale=1.3"></img></a>
