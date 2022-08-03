@@ -32,7 +32,7 @@
 >- Database: </br>
 >![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 >![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
->
+><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 >- Others: </br>
 >![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 >![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
