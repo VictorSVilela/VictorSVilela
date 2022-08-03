@@ -27,7 +27,7 @@
 >![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 >![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 >![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
->![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?logo=angularjs&logoColor=white)
+>![AngularJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg)
 >
 >- Database: </br>
 >![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
