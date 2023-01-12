@@ -7,18 +7,14 @@
 
 ### :mortar_board: Graduating:
 
->I'm graduating in Information Systems at Faculdade Sul-Americana (FASAM), always looking for new challenges to become a complete professional.
-
-#
- 
-### 💼 Working: 
->I'm currently working on [Pacto Soluções](https://sistemapacto.com.br/)
+>I graduated in Information Systems at Faculdade Sul-Americana (FASAM), always looking for new challenges to become a complete professional.
 
 #
 
 ### 🛠 Languages and Tools:
 >- Backend: </br>
 ><img src="https://badgen.net/badge/icon/Java?icon=https://www.svgrepo.com/show/184143/java.svg?size=77&color=0d8ac7&labelColor=F5F5F5&label&scale=1.3"></img>
+><img src="https://badgen.net/badge/icon/SpringBoot?icon=https://www.svgrepo.com/show/376350/spring.svg?size=77&color=6db33f&labelColor=F5F5F5&label&scale=1.3"></img>
 ><img src="https://badgen.net/badge/icon/Maven?icon=https://www.svgrepo.com/show/373829/maven.svg?size=77&color=C71A36&labelColor=F5F5F5&label&scale=1.3"></img>
 ><img src="https://badgen.net/badge/icon/Hibernate?icon=https://www.svgrepo.com/show/353874/hibernate.svg?size=77&color=59666c&labelColor=F5F5F5&label&scale=1.3"></img>
 >
