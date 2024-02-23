@@ -7,7 +7,7 @@
 
 ### :mortar_board: Graduating:
 
->I graduated in Information Systems at Faculdade Sul-Americana (FASAM), always looking for new challenges to become a complete professional.
+>I graduated in Information Systems at Centro Universitário (UNIFASAM), always looking for new challenges to become a complete professional.
 
 #
 
